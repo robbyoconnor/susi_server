@@ -1,8 +1,3 @@
----
-layout: default
-title: Deploy on Cloud9
----
-
 Steps to setup `susi` on cloud9
 -------------------------------
 

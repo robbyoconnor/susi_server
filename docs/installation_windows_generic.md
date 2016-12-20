@@ -1,9 +1,4 @@
----
-layout: default
-title: Deploy on Windows
----
-
-# Generic Installation on Windows 
+#Generic Installation on Windows 
 
 ## Requirements
 - Install GitBash (https://www.git-scm.com/download/win), jdk (Java Development Kit) and Apache Ant (http://ant.apache.org/bindownload.cgi)

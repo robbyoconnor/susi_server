@@ -1,9 +1,4 @@
----
-layout: default
-title: Deploy on Heroku
----
-
-# How to run the Loklak server on Heroku using Toolbelt
+#How to run the Loklak server on Heroku using Toolbelt
 
 1. Create a Heroku account https://www.heroku.com/
 2. Download the Heroku toolbelt https://toolbelt.heroku.com/
